@@ -1,1 +1,1 @@
-Gererarization
+Generalization
